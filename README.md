@@ -1,7 +1,6 @@
-PhotographFetchSketch
+PhotographFetchSketch (2013)
 =====================
 
-Android app
 
 Photograph Fetch and Sketch is an android application that gets the "tagged" photos of the user along with his searched friend.
 On click of one of the photos the User gets to customize the photo by drag and drop of predefined message templates from the   
